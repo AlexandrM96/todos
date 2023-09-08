@@ -1,0 +1,41 @@
+.to-do-item {
+    margin-bottom: 10px;
+}
+.to-do-item:last-child {
+    margin-bottom: 20px;
+}
+.to-do-item__container {
+    display: flex;
+    border: 1px solid #d7d4d4;
+    padding: 10px;
+    font-size: 20px;
+    width: 460px;
+    margin: auto;
+}
+
+.to-do-item__container-button {
+    cursor: pointer;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #d4d1d1;
+    margin-right: 20px;
+    background: #ffff;
+}
+
+.to-do-item__container-task-false {
+    color: #d4d1d1;
+    text-decoration: line-through;
+}
+
+.to-do-item__container-button-false {
+    cursor: pointer;
+    border-radius: 50%;
+    border: 1px solid #d4d1d1;
+    margin-right: 20px;
+    width: 25px;
+    height: 25px;
+    background: url(/public/img/checkmarkoutline_110785.svg), #ffff;
+    background-position: center;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,25 @@
+.to-do-list__container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.to-do-list__container-input {
+  width: 400px;
+  padding: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.to-do-list__container-button {
+  padding: 0px 17px;
+  font-size: 20px;
+  border-radius: 50%;
+  border: 0;
+  background: #e6dfdf;
+  cursor: pointer;
+}
+
+.to-do-list__container-button:hover {
+  background: #7f7a7a;
+}
