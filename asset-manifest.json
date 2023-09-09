@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todos/static/css/main.0b154730.css",
+    "main.js": "/todos/static/js/main.e3a1eb84.js",
+    "static/js/787.7ab45602.chunk.js": "/todos/static/js/787.7ab45602.chunk.js",
+    "index.html": "/todos/index.html",
+    "static/media/checkmarkoutline_110785.svg": "/todos/static/media/checkmarkoutline_110785.1cf5280cd971e69d66fd.svg",
+    "main.0b154730.css.map": "/todos/static/css/main.0b154730.css.map",
+    "main.e3a1eb84.js.map": "/todos/static/js/main.e3a1eb84.js.map",
+    "787.7ab45602.chunk.js.map": "/todos/static/js/787.7ab45602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b154730.css",
+    "static/js/main.e3a1eb84.js"
+  ]
+}
