@@ -90,8 +90,8 @@ export default function ToDoList() {
                         true
                         :
                         item.status === status)
-                ).map((item: Task) => (
-                    <ToDoItem {...item} />
+                ).map((item: Task, index) => (
+                    <ToDoItem key={index} {...item} />
                 ))}
             </div>
         </div>
