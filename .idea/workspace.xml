@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="065ab111-7ff8-48ce-a239-97feb1d02690" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ToDoItem/ToDoItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDoItem/ToDoItem.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ToDoList/ToDoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDoList/ToDoList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/todos.slice.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/todos.slice.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/todos/todos.slice.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/todos/todos.slice.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/todos/todos.slice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/todos/todos.slice.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,11 @@
       <workItem from="1694196491964" duration="1830000" />
       <workItem from="1694198913209" duration="414000" />
       <workItem from="1694247893994" duration="1557000" />
+      <workItem from="1694550618449" duration="600000" />
+      <workItem from="1694616729208" duration="25000" />
+      <workItem from="1695365975736" duration="600000" />
+      <workItem from="1695369906601" duration="4000" />
+      <workItem from="1696613337040" duration="1345000" />
     </task>
     <servers />
   </component>

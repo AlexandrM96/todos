@@ -91,7 +91,7 @@ export default function ToDoList() {
                         :
                         item.status === status)
                 ).map((item: Task, index) => (
-                    <ToDoItem key={index} {...item} />
+                    <ToDoItem key={item.id} {...item} />
                 ))}
             </div>
         </div>

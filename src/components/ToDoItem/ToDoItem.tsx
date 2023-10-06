@@ -7,7 +7,7 @@ export default function ToDoItem(props:Task) {
     const {statusChange} = useActions();
 
     const clickBtn = () => {
-        return statusChange(props.task);
+        return statusChange(props.id);
     }
 
     return (

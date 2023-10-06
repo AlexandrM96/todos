@@ -1,6 +1,7 @@
 export interface Task {
     task: string,
-    status: boolean
+    status: boolean,
+    id: number
 }
 
 export interface TodosInterface {
