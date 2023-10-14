@@ -17,13 +17,14 @@ describe('Todos', () => {
         const newState = store.getState().todos;
         expect(newState.tasks).toContainEqual({
             task,
+            id: 1,
             status: true,
         });
     });
 
     it('изменить статус задачи', () => {
         const task = 'Task to change';
-        const taskId = 3;
+        const taskId = 1;
         store.dispatch(todosActions.addTask(task));
 
         store.dispatch(todosActions.statusChange(taskId));
